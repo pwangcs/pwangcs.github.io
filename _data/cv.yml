@@ -1,0 +1,131 @@
+cv:
+  name: Ping Wang
+  label: Postdoctoral Researcher in Computational Imaging and Machine Vision
+  email: wangping@westlake.edu.cn
+  url: https://pwangcs.github.io
+  location: Hangzhou, China
+  image: /assets/img/prof_pic.jpg
+  summary: Researcher in computational imaging, computer vision, and image and video processing, with a focus on deep learning for compressive imaging inverse problems.
+  social_networks:
+    - network: GitHub
+      username: pwangcs
+    - network: Google Scholar
+      username: WCsIUToAAAAJ
+
+  sections:
+    Education:
+      - institution: Zhejiang University and Westlake University
+        location: Hangzhou, China
+        area: Computer Science and Technology
+        studyType: Joint Ph.D. Program
+        start_date: 2021-09
+        end_date: 2025-06
+        highlights:
+          - "Thesis: Deep Learning for Compressive Imaging Inverse Problems"
+          - "Advisor: Prof. Xin Yuan"
+
+      - institution: Southwest University
+        location: Chongqing, China
+        area: Electronic and Communication Engineering
+        studyType: M.Eng.
+        start_date: 2017-09
+        end_date: 2020-06
+        highlights:
+          - "Thesis: Research on Data Privacy Preservation Based on Compressive Sensing"
+          - "Advisor: Prof. Xin He; Co-advisor: Prof. Yushu Zhang"
+
+      - institution: Wuhan Institute of Technology
+        location: Wuhan, China
+        area: Opto-Electronics Information Science and Engineering
+        studyType: B.Sc.
+        start_date: 2013-09
+        end_date: 2017-06
+
+    Experience:
+      - company: Westlake University
+        position: Postdoctoral Researcher in Computational Imaging and Machine Vision
+        location: Hangzhou, China
+        start_date: 2025-07
+        summary: Research in computational imaging and machine vision.
+
+      - company: Westlake University, School of Engineering
+        position: Research Assistant
+        location: Hangzhou, China
+        start_date: 2021-05
+        end_date: 2021-08
+        highlights:
+          - "Mentor: Prof. Xin Yuan"
+          - "Topics: Optimization algorithms for inverse problems and cryptographic compressed sensing"
+
+      - company: Sichuan University, Cyber Science Research Institute
+        position: Research Assistant
+        location: Chengdu, China
+        start_date: 2020-09
+        end_date: 2021-04
+        highlights:
+          - "Mentors: Prof. Xingshu Chen and Prof. Changxiang Shen"
+          - "Topics: Computation outsourcing and serverless computing"
+
+      - company: China Mobile, Chengdu Industrial Institute
+        position: Research Intern
+        location: Chengdu, China
+        start_date: 2019-05
+        end_date: 2019-09
+        highlights:
+          - "Topic: Image transmission and processing for 5G-connected UAVs"
+
+    Awards:
+      - title: Excellent Graduate Award
+        date: 2024
+        awarder: Zhejiang University
+      - title: Exploration Award
+        date: 2024
+        awarder: Westlake University
+      - title: Best Oral Presentation Award (10/175)
+        date: 2023
+        awarder: CITA
+      - title: Suwu Scholarship and Learning & Innovation Award
+        date: 2023
+        awarder: Westlake University
+      - title: Merit Graduate Award and Excellent Graduate Award
+        date: 2023
+        awarder: Zhejiang University
+      - title: Excellent Graduate Cadre Award
+        date: 2022
+        awarder: Zhejiang University
+      - title: Outstanding Graduate Award
+        date: 2020
+        awarder: Southwest University
+      - title: Outstanding Academic Innovation Award
+        date: 2019
+        awarder: Southwest University
+      - title: Excellent Research Award
+        date: 2018-2019
+        awarder: Southwest University
+      - title: Merit Graduate Award
+        date: 2018
+        awarder: Southwest University
+
+    Academic Activities:
+      - title: Founder of Westlake Reading Club
+        date: 2021-11 to 2023-06
+        awarder: Westlake University
+      - title: Student Member
+        date: 2021-11 to Present
+        awarder: IEEE
+
+    Skills:
+      - name: Programming
+        level: Proficient
+        keywords:
+          - Python
+          - PyTorch
+          - MATLAB
+      - name: Languages
+        level: Professional working proficiency in English; native proficiency in Chinese
+
+    Patent:
+      - title: A Copyright-Protected and Privacy-Preserving Media Sharing Scheme
+        date: 2018
+        awarder: Australian Patent Application
+        summary: Application No. 2018100682
