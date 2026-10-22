@@ -13,8 +13,15 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+<p class="text-muted small publication-author-legend">
+  <sup>*</sup> Equal contribution &nbsp;·&nbsp;
+  <sup>†</sup> Corresponding author(s)
+</p>
+
 <div class="publications">
 
 {% bibliography %}
 
 </div>
+
+{% include publication_customizations.liquid %}
