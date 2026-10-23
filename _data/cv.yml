@@ -1,6 +1,6 @@
 cv:
   name: Ping Wang
-  label: Postdoctoral Researcher in Computational Imaging and Machine Vision
+  label: Postdoctoral Researcher and Assistant Researcher
   email: wangping@westlake.edu.cn
   url: https://pwangcs.github.io
   location: Hangzhou, China
@@ -43,7 +43,7 @@ cv:
 
     Experience:
       - company: Westlake University
-        position: Postdoctoral Researcher in Computational Imaging and Machine Vision
+        position: Postdoctoral Researcher and Assistant Researcher
         location: Hangzhou, China
         start_date: 2025-07
         summary: Research in computational imaging and machine vision.
