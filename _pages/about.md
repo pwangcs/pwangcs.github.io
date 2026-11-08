@@ -25,7 +25,7 @@ latest_posts:
 
 <style>
   .post .profile {
-    max-width: 200px;
+    max-width: 150px;
   }
 </style>
 
