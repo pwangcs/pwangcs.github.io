@@ -29,7 +29,7 @@ latest_posts:
   }
 </style>
 
-I am a Postdoctoral Researcher and Assistant Researcher in the Sensing and Computational Imaging Lab at Westlake University, working with Prof. Xin Yuan. I received my Ph.D. in Computer Science and Technology from Zhejiang University in 2025 through a joint Ph.D. program between Zhejiang University and Westlake University. My research interests include computational imaging and photography, inverse problems, and privacy.
+I am a Postdoctoral Researcher and Assistant Researcher in the Sensing and Computational Imaging Lab at Westlake University, working with Prof. [Xin Yuan](https://en.westlake.edu.cn/faculty/xin-yuan.html). I received my Ph.D. in Computer Science and Technology from Zhejiang University in 2025 through a joint Ph.D. program between Zhejiang University and Westlake University. My research interests include computational imaging and photography, inverse problems, and privacy.
 
 I have published over 30 academic papers, including 10 as first or corresponding author (including co-first/co-corresponding authorship) in top international conferences and journals such as CVPR, ICCV, ECCV, AAAI, ACM MM, and IEEE TCSVT. My publications span hyperspectral and polarization imaging, high-speed video imaging, single-pixel imaging, and deep reconstruction methods. I have served as a reviewer for leading journals and conferences, including IEEE TPAMI, IEEE TIP, IEEE TCI, Optics Letters, CVPR, ICCV, ECCV, NeurIPS, ICML, and ICLR. I have served as PI for one National Natural Science Foundation of China (NSFC) Young Scientists Fund project and one China Postdoctoral Science Foundation General Fund project. I received the Best Paper Award at the ICCV 2025 Workshop on Responsible Imaging.
 
