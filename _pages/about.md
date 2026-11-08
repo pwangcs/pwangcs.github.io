@@ -2,15 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Researcher and Assistant Researcher · Westlake University
+subtitle: Postdoctoral Researcher and Assistant Researcher · Westlake University · Hangzhou, China
 
 profile:
   align: right
   image: IMG_3303.JPG
   image_circular: false
-  more_info: >
-    <p>Westlake University</p>
-    <p>Hangzhou, China</p>
 
 selected_papers: true
 social: true
@@ -25,6 +22,12 @@ latest_posts:
   scrollable: true
   limit: 3
 ---
+
+<style>
+  .post .profile {
+    max-width: 230px;
+  }
+</style>
 
 I am a Postdoctoral Researcher and Assistant Researcher in the Sensing and Computational Imaging Lab at Westlake University, working with Prof. Xin Yuan. I received my Ph.D. in Computer Science and Technology from Zhejiang University in 2025 through a joint Ph.D. program between Zhejiang University and Westlake University. My research interests include computational imaging and photography, inverse problems, and privacy.
 
